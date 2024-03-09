@@ -1,0 +1,86 @@
+{
+  "uid" : "1e2b1992b5423792",
+  "name" : "test_register_with_valid_details",
+  "fullName" : "tests.test_register.TestRegister#test_register_with_valid_details",
+  "historyId" : "9c9629e1832ef15b2f98ecf5b5a32aad",
+  "time" : {
+    "start" : 1709975153126,
+    "stop" : 1709975154177,
+    "duration" : 1051
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1709975150524,
+      "stop" : 1709975153126,
+      "duration" : 2602
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1709975154177,
+      "stop" : 1709975156321,
+      "duration" : 2144
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "USBLRDEVADN1"
+  }, {
+    "name" : "thread",
+    "value" : "16104-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown')" ]
+  },
+  "source" : "1e2b1992b5423792.json",
+  "parameterValues" : [ ]
+}

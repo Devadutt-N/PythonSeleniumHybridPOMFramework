@@ -1,0 +1,102 @@
+{
+  "bcb422e3ab6afdc1314efb947a818358" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "774c6a110151582b",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/774c6a110151582b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975705705,
+        "stop" : 1709975706371,
+        "duration" : 666
+      }
+    } ]
+  },
+  "2628823e04ad24cee2f8a49649004858" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ab20e9335f05b1d",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/2ab20e9335f05b1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975715938,
+        "stop" : 1709975716678,
+        "duration" : 740
+      }
+    } ]
+  },
+  "9c9629e1832ef15b2f98ecf5b5a32aad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cdfcc73be9be0b7",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/2cdfcc73be9be0b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975721950,
+        "stop" : 1709975722988,
+        "duration" : 1038
+      }
+    } ]
+  },
+  "bf7bd581249341774a126a9e6199e783" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a36d75e6b17b6fa",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/2a36d75e6b17b6fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975691611,
+        "stop" : 1709975691904,
+        "duration" : 293
+      }
+    } ]
+  },
+  "5e8725d7f9923b12f613253c908dcb97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63cab3543a27fc5f",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/63cab3543a27fc5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975700745,
+        "stop" : 1709975700990,
+        "duration" : 245
+      }
+    } ]
+  }
+}

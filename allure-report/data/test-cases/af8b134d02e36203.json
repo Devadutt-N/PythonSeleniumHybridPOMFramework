@@ -1,0 +1,124 @@
+{
+  "uid" : "af8b134d02e36203",
+  "name" : "test_login_with_invalid_credentials",
+  "fullName" : "tests.test_login.TestLogin#test_login_with_invalid_credentials",
+  "historyId" : "2628823e04ad24cee2f8a49649004858",
+  "time" : {
+    "start" : 1709976695725,
+    "stop" : 1709976696384,
+    "duration" : 659
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1709976688287,
+      "stop" : 1709976695725,
+      "duration" : 7438
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1709976696385,
+      "stop" : 1709976698562,
+      "duration" : 2177
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "USBLRDEVADN1"
+  }, {
+    "name" : "thread",
+    "value" : "26972-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8ec5250dfa0678d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975715938,
+        "stop" : 1709975716678,
+        "duration" : 740
+      }
+    }, {
+      "uid" : "5135eb79a8b568a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709975147759,
+        "stop" : 1709975148363,
+        "duration" : 604
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "2ab20e9335f05b1d",
+        "reportUrl" : "http://localhost:8080/job/TutorialsNinja/2/allure/#testresult/2ab20e9335f05b1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709975715938,
+          "stop" : 1709975716678,
+          "duration" : 740
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown')" ]
+  },
+  "source" : "af8b134d02e36203.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "4c505011c95afb58",
+  "name" : "test_login_with_valid_credentials",
+  "time" : {
+    "start" : 1709976685463,
+    "stop" : 1709976686156,
+    "duration" : 693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af8b134d02e36203",
+  "name" : "test_login_with_invalid_credentials",
+  "time" : {
+    "start" : 1709976695725,
+    "stop" : 1709976696384,
+    "duration" : 659
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a89acbe71633400b",
+  "name" : "test_search_for_valid_product",
+  "time" : {
+    "start" : 1709976670998,
+    "stop" : 1709976671262,
+    "duration" : 264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b55b5c6c32afc88",
+  "name" : "test_register_with_valid_details",
+  "time" : {
+    "start" : 1709976701375,
+    "stop" : 1709976702453,
+    "duration" : 1078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da567456911aeec",
+  "name" : "test_search_for_invalid_product",
+  "time" : {
+    "start" : 1709976679991,
+    "stop" : 1709976680240,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
